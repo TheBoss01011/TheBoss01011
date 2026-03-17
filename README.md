@@ -1,92 +1,55 @@
-<!DOCTYPE html>
-<html>
-    <meta charset="UTF-8"lang="en">
-<head>meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My CV</title>
-    <style>
-        /* Your CSS styles here */
+# Hi, I'm msb 👋
 
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
+**AI & Python Developer | Aspiring ML Engineer**
 
-        .container {
-            display: flex;
-            max-width: 500px;
-            margin: 100 auto;
-        }
+🚀 Passionate developer focused on AI, Machine Learning, and Python automation.
+🌍 Based in Algeria — targeting remote opportunities in Germany & Europe.
+🧠 Currently building my skills in Python, AI tools, and cybersecurity.
+🎯 Goal: Land a remote AI/Python developer role with a European company.
 
-        .left-side {
-            flex: 1;
-            padding: 100px; /* Increased padding for more space */
-            color: #fff; /* White text color for the left side */
-            text-align: left;
-            background: radial-gradient(circle at top left, #87CEEB 60%, transparent 60%), #041A40; /* Circular blue background for the upper part */
-            background-size: 100% 100%, 100% 40%; /* Adjust the background sizes */
-            background-repeat: no-repeat;
-        }
+---
 
-        .photo {
-            display: block;
-            margin: 30px auto; /* Increased margin for more space */
-            max-width: 150px;
-            border-radius: 50%; /* Makes the photo circular */
-        }
+## 🛠️ Tech Stack
 
-        .right-side {
-            flex: 2;
-            padding: 60px; /* Increased padding for more space */
-            background-color: #fff;
-        }
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4CAF50?style=flat&logo=shield&logoColor=white)
 
-        h1 {
-            margin: 0;
-        }
+---
 
-        .personal-info {
-            margin-bottom: 40px; /* Increased margin for more space */
-        }
+## 📚 Currently Learning
+- Machine Learning with Python
+- LangChain & AI APIs
+- SQL for Data Analysis
+- Cloud Basics (Azure)
 
-        .section {
-            margin-bottom: 50px; /* Increased margin for more space */
-        }
+---
 
-        .section h2 {
-            color: #0074D9; /* Blue color for section titles */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="left-side">
-            <h1>Salah Jamal</h1>
-            <img src="45.jpg" alt="Salah Jamal's Photo" class="photo">
-            <div class="personal-info">
-                <p>Email: salah@example.com</p>
-                <p>Phone: (123) 456-7890</p>
-                <p>Address: 123 Main St, City, Country</p>
-            </div>
-        </div>
-        <div class="right-side">
-            <h2>Enter Your Information</h2>
-            <form action="generate_cv.php" method="POST">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required><br><br>
-                
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required><br><br>
-                
-                <label for="phone">Phone:</label>
-                <input type="tel" id="phone" name="phone" required><br><br>
-                
-                <label for="address">Address:</label>
-                <input type="text" id="address" name="address" required><br><br>
-                
-                <input type="submit" value="Generate CV">
-            </form>
-        </div>
-    </div>
-</body>
-</html>
+## 🏅 Certifications
+- Python (Multiple certificates)
+- HTML & CSS
+- Cybersecurity (x3)
+- AI Fundamentals
+
+---
+
+## 🚀 Projects
+> 🔨 Projects coming soon — currently building my first AI & Python projects.
+
+---
+
+## 🎯 Goals for 2026
+- ✅ Build 3 real Python/AI projects
+- ✅ Get Google/IBM AI Certificate
+- 🔵 Land first remote EU job
+- 🔵 Relocate to Germany 🇩🇪
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: /in/carlos
+- Open to remote work 🌍
+- Available for hire ✅
+  
