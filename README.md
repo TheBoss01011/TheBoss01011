@@ -70,9 +70,9 @@ Currently building my foundation through hands-on certifications and self-study 
 
 <div align="center">
 
-![Mosaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosaab-afrit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Mosaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBoss01011&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosaab-afrit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBoss01011&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -93,6 +93,6 @@ Currently building my foundation through hands-on certifications and self-study 
 
 *"The expert in anything was once a beginner."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mosaab-afrit&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TheBoss01011&color=58a6ff&style=flat-square)
 
 </div>
